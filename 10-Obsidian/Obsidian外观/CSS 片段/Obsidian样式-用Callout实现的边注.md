@@ -26,7 +26,7 @@ modified: 20240128020302
 添加好 css 后，在正文中直接用边注的 callout 即可（如何添加 css 可以看这篇：[[Obsidian的CSS代码片段]]）
 
 ```
-> [!NOTE|aside-l] 右侧注释
+> [!NOTE|aside-r] 右侧注释
 > 注释内容
 ```
 
